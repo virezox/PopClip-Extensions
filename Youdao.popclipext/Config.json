@@ -1,0 +1,11 @@
+{
+  "identifier": "sh.vitex.popclip.extension.youdao",
+  "name": "Youdao",
+  "icon": "Youdao",
+  "url": "https://youdao.com/result?word={popclip text}&lang=en",
+  "app": {
+    "link": "https://youdao.com/",
+    "name": "Youdao"
+  },
+  "description": "Search the word using Youdao."
+}

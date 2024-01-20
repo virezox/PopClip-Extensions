@@ -1,0 +1,11 @@
+{
+  "identifier": "sh.vitex.popclip.extension.longman",
+  "name": "Longman",
+  "icon": "Longman",
+  "url": "https://www.ldoceonline.com/dictionary/{popclip text}",
+  "app": {
+    "link": "https://www.ldoceonline.com/",
+    "name": "Longman"
+  },
+  "description": "Search the word using Longman."
+}
